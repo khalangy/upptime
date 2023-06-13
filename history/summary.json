@@ -22,19 +22,19 @@
     "url": "https://docs.sysliae.me",
     "icon": "https://icons.duckduckgo.com/ip3/docs.sysliae.me.ico",
     "slug": "wiki",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 888,
-    "timeDay": 0,
-    "timeWeek": 888,
-    "timeMonth": 888,
-    "timeYear": 888,
+    "status": "up",
+    "uptime": "99.55%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
+    "time": 1051,
+    "timeDay": 1540,
+    "timeWeek": 1051,
+    "timeMonth": 1051,
+    "timeYear": 1051,
     "dailyMinutesDown": {
-      "2023-06-13": 0
+      "2023-06-13": 17
     }
   }
 ]
