@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 1157,
-    "timeDay": 1040,
-    "timeWeek": 1114,
-    "timeMonth": 1157,
-    "timeYear": 1157,
+    "time": 1143,
+    "timeDay": 911,
+    "timeWeek": 1081,
+    "timeMonth": 1143,
+    "timeYear": 1143,
     "dailyMinutesDown": {
       "2023-06-15": 18
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.sysliae.me.ico",
     "slug": "wiki",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 855,
-    "timeDay": 653,
-    "timeWeek": 758,
-    "timeMonth": 855,
-    "timeYear": 855,
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 862,
+    "timeDay": 970,
+    "timeWeek": 824,
+    "timeMonth": 862,
+    "timeYear": 862,
     "dailyMinutesDown": {
       "2023-06-13": 35
     }
