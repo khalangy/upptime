@@ -4,7 +4,7 @@
     "url": "https://cloud.sysliae.me",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.sysliae.me.ico",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1149,
     "timeYear": 1144,
     "dailyMinutesDown": {
+      "2023-07-31": 0,
       "2023-06-15": 18
     }
   },
