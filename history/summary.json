@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.sysliae.me.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "89.58%",
+    "uptime": "89.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.78%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "98.30%",
     "time": 1414,
-    "timeDay": 1478,
-    "timeWeek": 1283,
-    "timeMonth": 1363,
+    "timeDay": 1128,
+    "timeWeek": 1257,
+    "timeMonth": 1361,
     "timeYear": 1456,
     "dailyMinutesDown": {
       "2024-09-24": 84,
@@ -42,8 +42,7 @@
       "2023-11-13": 28,
       "2023-10-18": 115,
       "2023-10-04": 10,
-      "2023-10-02": 27,
-      "2023-10-01": 257
+      "2023-10-02": 27
     }
   },
   {
@@ -56,11 +55,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.82%",
-    "uptimeYear": "99.37%",
-    "time": 1065,
-    "timeDay": 614,
-    "timeWeek": 780,
-    "timeMonth": 1008,
+    "uptimeYear": "99.38%",
+    "time": 1064,
+    "timeDay": 829,
+    "timeWeek": 811,
+    "timeMonth": 1005,
     "timeYear": 1143,
     "dailyMinutesDown": {
       "2024-09-17": 519,
