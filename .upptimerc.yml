@@ -3,11 +3,8 @@ owner: khalangy # Your GitHub organization or username, where this repository li
 repo: upptime # The name of this repository
 user-agent: khalangy
 sites:
-  - name: Nextcloud
-    url: https://cloud.sysliae.me
-  - name: Wiki
-    url: https://docs.sysliae.me
-
+  - name: Kuma
+    url: https://uptime.sysliae.me
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
