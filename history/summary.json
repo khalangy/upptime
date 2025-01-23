@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/uptime.sysliae.me.ico",
     "slug": "kuma",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 858,
-    "timeDay": 806,
-    "timeWeek": 834,
-    "timeMonth": 866,
-    "timeYear": 858,
+    "uptimeYear": "99.99%",
+    "time": 867,
+    "timeDay": 1285,
+    "timeWeek": 897,
+    "timeMonth": 878,
+    "timeYear": 867,
     "dailyMinutesDown": {
       "2024-12-16": 9
     }
