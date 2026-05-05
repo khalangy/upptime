@@ -4,7 +4,7 @@
     "url": "https://uptime.sysliae.me",
     "icon": "https://icons.duckduckgo.com/ip3/uptime.sysliae.me.ico",
     "slug": "kuma",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 784,
     "timeMonth": 809,
     "timeYear": 898,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-05": 0
+    }
   }
 ]
