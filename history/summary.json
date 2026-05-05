@@ -4,19 +4,19 @@
     "url": "https://uptime.sysliae.me",
     "icon": "https://icons.duckduckgo.com/ip3/uptime.sysliae.me.ico",
     "slug": "kuma",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 882,
-    "timeDay": 997,
-    "timeWeek": 784,
-    "timeMonth": 809,
-    "timeYear": 898,
+    "uptimeDay": "96.09%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.99%",
+    "time": 884,
+    "timeDay": 1109,
+    "timeWeek": 839,
+    "timeMonth": 822,
+    "timeYear": 899,
     "dailyMinutesDown": {
-      "2026-05-05": 0
+      "2026-05-05": 56
     }
   }
 ]
