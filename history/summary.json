@@ -6,14 +6,14 @@
     "slug": "kuma",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.09%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.44%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 883,
-    "timeDay": 904,
-    "timeWeek": 811,
-    "timeMonth": 823,
+    "timeDay": 843,
+    "timeWeek": 824,
+    "timeMonth": 824,
     "timeYear": 899,
     "dailyMinutesDown": {
       "2026-05-05": 56
